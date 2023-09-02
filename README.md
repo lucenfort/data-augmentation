@@ -14,3 +14,5 @@ Este projeto implementa várias técnicas de Data Augmentation em Python usando 
 ## Uso
 Para usar este projeto, substitua 'example.png' pelo caminho da sua imagem. Em seguida, execute o código para visualizar a imagem original e as imagens com Data Augmentation.
 
+## Resultado
+![](Figure_1.png "Resultado")
