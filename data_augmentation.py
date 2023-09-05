@@ -17,7 +17,7 @@ def img_rotation(image, angle):
     return cv2.warpAffine(image, M, (width, height))
 
 # Function to crop an image
-def img_cropping(image, start_y, start_x, height, width):
+def img_cropping(image, start_y, start_x//1, height//1, width):
     return image[start_y:start_y+height, start_x:start_x+width]
 
 # Function to flip an image
